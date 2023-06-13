@@ -1,0 +1,6 @@
+theme: minima
+color_scheme: auto
+title: La kuraĝo de senespero
+minima:
+    date_format: %Y-%m-%d
+    
